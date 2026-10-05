@@ -1,5 +1,6 @@
 # Estimating the Percentage Growth of AI Content Across Categories of the Web 
- 
+> Published at ICISS 2026 · [DOI: 10.1109/ICISS71466.2026.11715500](https://doi.org/10.1109/ICISS71466.2026.11715500)
+
 ## Overview
 Generative AI tools have made it increasingly hard to tell whether web content such as blog posts, news articles, social media posts, was written by a person or a machine. This matters as AI systems are known to hallucinate, and as more of the content people consume is AI-generated, the risk of misinformation spreading at scale grows too [1], [2], which makes it important to understand how much AI content exists and how fast it's growing, especially in domains like news which shapes people's understanding on the ongoing real world things.
  
